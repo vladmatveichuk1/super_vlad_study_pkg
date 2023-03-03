@@ -1,1 +1,1 @@
-# super_vlad_study_pkg-
+# super_vlad_study_pkg
